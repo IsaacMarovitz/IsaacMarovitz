@@ -8,4 +8,6 @@ Hi, my name's Isaac. I mainly work on Unity games, but I want to branch out to w
 
 ![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMarovitz&theme=nightowl&hide=stars)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMarovitz&theme=nightowl&layout=compact&hide=ASP,Shaderlab,HLSL,Smalltalk&exclude_repo=Retro-Runner,Mind-The-Gap,Malware-Musher,Wander,Mirror-Test&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacMarovitz&theme=nightowl&layout=compact&hide=ASP,Shaderlab,HLSL,Smalltalk,C%23&langs_count=6)
+
+(Excluding C#)
