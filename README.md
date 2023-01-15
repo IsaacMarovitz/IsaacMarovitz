@@ -6,4 +6,4 @@ Hi, my name's Isaac. I mainly work on Unity games, macOS Apps, and Rust projects
 
 <br/>
 
-![Isaac's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsaacMarovitz&theme=nightowl&hide=stars)
+![Isaac's GitHub stats](https://github-readme-stats-isaacmarovitz.vercel.app/api?username=IsaacMarovitz&theme=nightowl&hide=stars)
