@@ -1,7 +1,7 @@
 ### Hello
 Hi, my name's Isaac. I mainly work on cross-platform apps and Rust projects. 
 
-- 🔭 I’m currently working on: Ryujinx, SharpMetal, and Whisky
+- 🔭 I’m currently working on: SharpMetal, and Whisky
 - 😄 Pronouns: He/They
 
 <br/>
