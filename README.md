@@ -1,7 +1,7 @@
 ### Hello
 Hi, my name's Isaac. I mainly work on cross-platform apps and Rust projects. 
 
-- 🔭 I’m currently working on: Flycast, SA Tools, Sonic Adventure 2 Remake, Godot
+- 🔭 I’m currently working on: Marathon Recompiled
 - 😄 Pronouns: He/They
 
 <br/>
