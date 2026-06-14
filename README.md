@@ -6,4 +6,4 @@ Hi, my name's Isaac. I mainly work on cross-platform apps and Rust projects.
 
 <br/>
 
-![Isaac's GitHub Stats](https://github-readme-stats-isaacmarovitz.vercel.app/api?username=IsaacMarovitz&theme=nightowl&include_all_commits=true)
+![Isaac's GitHub Stats](./profile/stats.svg)
